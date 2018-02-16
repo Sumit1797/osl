@@ -1,5 +1,4 @@
-<script type="text/javascript">
-function myFunction(){
-	document.getElementById('demo').innerHTML="This was clicked"
+
+function myFunction() {
+    document.getElementById("demo").innerHTML = "This is it";
 }
-</script>
